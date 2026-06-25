@@ -15,7 +15,9 @@ Disusun Oleh:
 
 # Bagian 1: Ringkasan Konsep Utama
 Proyek ini mengusung konsep Feature Importance & Regional Profiling berbasis data (data-driven) untuk membongkar dan memetakan variabel ekonomi mana yang paling krusial dalam mendikte tingkat kemiskinan di Pulau Jawa dan Sumatra: 
+
 •	Tingkat 1 — Evaluasi Daya Beli (Mikro): Menguji seberapa kuat dan akurat variabel Pengeluaran per Kapita dapat diandalkan sebagai instrumen tunggal atau tolak ukur dalam merefleksikan tingkat kemiskinan masyarakat di tingkat regional.
+
 •	Tingkat 2 — Identifikasi Faktor Utama (Makro): Menggunakan pemodelan statistik kuantitatif untuk memeras seluruh variabel ekonomi dan ketenagakerjaan yang ada, guna menemukan "faktor utama" (prediktor paling dominan) pemicu kemiskinan di masing-masing pulau.
 
 Tujuan akhirnya adalah memindahkan paradigma kebijakan penanganan kemiskinan dari yang sifatnya generalisasi atau "kira-kira" menjadi berbasis bukti data yang sangat spesifik (evidence-based policy) sesuai karakteristik unik Pulau Jawa vs Pulau Sumatra. 
@@ -73,8 +75,11 @@ Bagian 3: Dampak Nyata Hasil Analisis (Acuan Kebijakan)
 
 # Bagian 4 : Checklist Persyaratan Umum Tugas Akhir 
 •	✓ Batas Minimal Baris Data: Menggabungkan Jawa dan Sumatra menghasilkan 273 baris data riil, memenuhi kualifikasi tugas (minimal 200 observasi). 
+
 •	✓ Variasi Metode Statistik: Menerapkan dua rumpun metode berbeda (Bab 3: Statistika Deskriptif, Korelasi, & Visual EDA, serta Bab 8: Inferensial Regresi Linear Berganda). 
+
 •	✓ Komponen Transparansi Akademik (AI Usage Log): Dokumentasi penggunaan AI dalam pemilahan wilayah (Jawa-Sumatra) dan rekonstruksi hipotesis regresi telah dicatat sejak awal. 
+
 •	✓ Kesiapan Tahap Komunikasi: Hasil pemodelan dirancang untuk menghasilkan visualisasi kontribusi faktor (feature importance) yang sangat aplikatif dan menarik saat dipresentasikan di hadapan Pak Tri Aji. 
 
 STATUS AKHIR DOKUMEN
